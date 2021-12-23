@@ -71,9 +71,3 @@ Download the dataset to your local disk. Clone the script and paste it to your I
 ## Running on a Cloud Service (e.g Google Cloud or Amzon AWS)
 Upload the script to your Cloud Drive. When submitting a job, supply the internal path of the script, pass in the corresponding interal URLs for the required arguments. 
 
-# Other Documents
-
-This repository contains the following addtional documents: 
-
-- presentation_slides (.pptx): contains the slides used in the presentation. 
-- outputs (folder): all outputs from running the above codes (total 7 files including the sample dataset)
