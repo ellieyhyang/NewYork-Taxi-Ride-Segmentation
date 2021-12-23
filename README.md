@@ -16,6 +16,9 @@ The original data set consists of New York City Taxi trip reports in the Year 20
 Small Dataset: 
 gs://github-data-yang/taxi-data-sorted-small.csv.bz2
 
+Large Dataset:
+gs://github-data-yang/taxi-data-sorted-large.csv.bz2
+
 
 # Python Scripts
 
